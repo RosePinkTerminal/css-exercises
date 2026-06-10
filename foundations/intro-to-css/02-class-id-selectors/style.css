@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+p {
+  background-color: palevioletred;
+  font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+div {
+    background: none;
+}
+
+#big-text {
+    color:blue;
+    font-size: 36px;
+}
