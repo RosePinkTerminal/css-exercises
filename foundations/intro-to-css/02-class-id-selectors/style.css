@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 
-p {
+.odd-nums {
   background-color: palevioletred;
   font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
@@ -12,4 +12,12 @@ div {
 #big-text {
     color:blue;
     font-size: 36px;
+}
+
+.odd-nums.medium-text {
+    font-size: 24px;
+}
+
+#green-bg {
+    background-color:greenyellow;
 }
