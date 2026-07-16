@@ -69,5 +69,9 @@ ul {
 
   display: flex;
   gap: 16px;
+}
+
+button:hover {
+    background: rgb(59, 29, 88);
 
 }
